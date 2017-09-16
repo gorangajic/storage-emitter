@@ -1,7 +1,8 @@
 {
-  "name": "storage-emitter",
-  "version": "2.0.1",
-  "main": "dist/index.js",
+  "name": "@gorangajic/storage-emitter",
+  "version": "0.0.0",
+  "main": "node.js",
+  "browser": "dist/index.js",
   "description": "Emit events between browser tabs",
   "repository": "alekseykulikov/storage-emitter",
   "author": "Aleksey Kulikov <alekseys.kulikov@gmail.com>",
